@@ -6,3 +6,5 @@ class Greeter{
 module.exports = {
     Greeter
 }
+
+//it should run work flow
