@@ -34,5 +34,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           npx cucumber-js
-          npx cucumber-js --dry-run
-          npx cucumber-js --parallel 3
+          
+          
